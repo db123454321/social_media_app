@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+@font-face {
+  font-family: 'Billabong';
+  src: url('/fonts/Billabong.woff2') format('woff2'),
+       url('/fonts/Billabong.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.instagram-font {
+  font-family: 'Grand Hotel', cursive;
+  color: #E1306C;
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+.pinstagram-logo {
+    font-family: 'Dancing Script', cursive;
+    color: #E1306C;
+    font-weight: 700;
+}

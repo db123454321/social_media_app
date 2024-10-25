@@ -1,0 +1,20 @@
+.welcome-section {
+    background: linear-gradient(90deg, #4a90e2, #63b3ed);
+    color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.welcome-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.welcome-content {
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+
